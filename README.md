@@ -12,4 +12,4 @@ A simple console-based service record management system built using C.
 2. Run: `./laptop_service`
 
 ## Author
-[Your Name]
+G Raviteja Reddy
